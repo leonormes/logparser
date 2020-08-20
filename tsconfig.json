@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "lib": ["es6", "es7", "es2017"],
+        "module": "commonjs",
+        "sourceMap": true,
+        "target": "es6",
+        "types": ["node", "mocha"],
+        "allowJs": true,
+        "outDir": "./dist",
+        "preserveSymlinks": true,
+        "strict": true,
+        "baseUrl": "."
+    }
+}
